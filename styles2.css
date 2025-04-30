@@ -1,0 +1,36 @@
+    .xxsmall {
+        font-size:xx-small;
+    }
+    .xsmall {
+        font-size:x-small;
+    }
+    .medium {
+        font-size:medium;
+    }
+    .xlarge {
+        font-size:x-large;
+    }
+    .small {
+        font-size:small;
+    }
+    .large {
+        font-size:large;
+    }
+    .xxlarge {
+        font-size:xx-large;
+    }
+    .red {
+        color: red;
+    }
+    .bold {
+        font-weight: bold;
+    }
+    .green {
+        color: green;
+    }
+    .blue {
+        color: blue;
+    }
+    .orange {
+        color: orange;
+    }
